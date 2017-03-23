@@ -13,14 +13,14 @@ import javax.swing.border.BevelBorder;
 public class Database_UI {
 
 	//private JFrame frame;
-	static String fn;
-	static String ln;
-	static String un;
-	static String pass;
-	static String badge;
-	static String prec;
-	static boolean warrant;
-	static boolean found = false;
+	protected static String fn;
+	protected static String ln;
+	protected static String un;
+	protected static String pass;
+	protected static String badge;
+	protected static String prec;
+	protected static boolean warrant;
+	protected static boolean found = false;
 	protected static String temp;
 	
 	public static void main(String[] args){
